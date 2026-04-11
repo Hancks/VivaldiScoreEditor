@@ -1,5 +1,6 @@
 import SwiftUI
 import UniformTypeIdentifiers
+import VivaldiScoreKit
 
 // MARK: - Score Pack (collection of scores in one JSON)
 

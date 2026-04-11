@@ -1,4 +1,5 @@
 import SwiftUI
+import VivaldiScoreKit
 
 struct ContentView: View {
     @State private var manager = ScoreDocumentManager()
@@ -96,9 +97,12 @@ struct ContentView: View {
             }
             HStack(spacing: 8) {
                 Text(score.scoreType.rawValue).font(.caption).foregroundStyle(.secondary)
+                Text(score.effectiveClef.symbol).font(.caption)
                 Text(score.timeSignature.displayString).font(.caption).foregroundStyle(.secondary)
                 Text("\(score.bars.count) bars").font(.caption).foregroundStyle(.secondary)
-                Text("\(score.totalNotes) notes").font(.caption).foregroundStyle(.secondary)
+                if score.metadata?.difficulty != nil {
+                    Text("d\(score.metadata!.difficulty!)").font(.caption).foregroundStyle(.orange)
+                }
             }
         }
         .padding(.vertical, 2)
@@ -124,6 +128,6 @@ struct ContentView: View {
 // MARK: - Make VivaldiScore Hashable for selection
 
 extension VivaldiScore: Hashable {
-    static func == (lhs: VivaldiScore, rhs: VivaldiScore) -> Bool { lhs.id == rhs.id }
-    func hash(into hasher: inout Hasher) { hasher.combine(id) }
+    public static func == (lhs: VivaldiScore, rhs: VivaldiScore) -> Bool { lhs.id == rhs.id }
+    public func hash(into hasher: inout Hasher) { hasher.combine(id) }
 }

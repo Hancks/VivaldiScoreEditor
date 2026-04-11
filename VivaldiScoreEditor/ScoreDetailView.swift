@@ -1,4 +1,5 @@
 import SwiftUI
+import VivaldiScoreKit
 
 struct ScoreDetailView: View {
     @Binding var score: VivaldiScore

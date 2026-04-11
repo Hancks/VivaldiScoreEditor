@@ -6,6 +6,10 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		AA100020SCRED00000000001 /* VivaldiScoreKit in Frameworks */ = {isa = PBXBuildFile; productRef = AA100021SCRED00000000001 /* VivaldiScoreKit */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		AA100001SCRED00000000001 /* VivaldiScoreEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VivaldiScoreEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -22,6 +26,7 @@
 		AA100003SCRED00000000001 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			files = (
+				AA100020SCRED00000000001 /* VivaldiScoreKit in Frameworks */,
 			);
 		};
 /* End PBXFrameworksBuildPhase section */
@@ -60,6 +65,9 @@
 				AA100002SCRED00000000001 /* VivaldiScoreEditor */,
 			);
 			name = VivaldiScoreEditor;
+			packageProductDependencies = (
+				AA100021SCRED00000000001 /* VivaldiScoreKit */,
+			);
 			productName = VivaldiScoreEditor;
 			productReference = AA100001SCRED00000000001 /* VivaldiScoreEditor.app */;
 			productType = "com.apple.product-type.application";
@@ -88,6 +96,9 @@
 			);
 			mainGroup = AA100004SCRED00000000001;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				AA100023SCRED00000000001 /* XCLocalSwiftPackageReference "../VivaldiScoreKitPackage" */,
+			);
 			preferredProjectObjectVersion = 90;
 			productRefGroup = AA100005SCRED00000000001 /* Products */;
 			projectDirPath = "";
@@ -304,6 +315,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		AA100023SCRED00000000001 /* XCLocalSwiftPackageReference "../VivaldiScoreKitPackage" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../VivaldiScoreKitPackage;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AA100021SCRED00000000001 /* VivaldiScoreKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = VivaldiScoreKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AA10000ASCRED00000000001 /* Project object */;
 }
