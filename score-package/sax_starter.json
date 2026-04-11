@@ -1,0 +1,1031 @@
+{
+  "id" : "sax-pitch-starter",
+  "title" : "Sax Starter — Lettura Note",
+  "author" : "Londeix / Rubank (trascrizione Vivaldi)",
+  "description" : "24 esercizi progressivi di lettura note per sassofono. Concert pitch (l'app traspone per lo strumento). Ispirati ai metodi Londeix, Rubank Intermediate e Advanced.",
+  "scores" : [
+    {
+      "id" : "SAX-P-001",
+      "version" : 1,
+      "title" : "Note lunghe — Fa maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Londeix Vol.1 — Prime note",
+        "tags" : ["Fa maggiore", "note lunghe", "base"],
+        "notes" : "Semibrevi e minime nel registro medio. Concentrarsi sull'intonazione."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-002",
+      "version" : 1,
+      "title" : "Scala Sib maggiore — semiminime",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 66,
+        "source" : "Londeix Vol.1 — Formule di studio",
+        "tags" : ["Sib maggiore", "scala", "base"],
+        "notes" : "Scala Sib maggiore ascendente e discendente in semiminime."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-003",
+      "version" : 1,
+      "title" : "Mib maggiore — gradi congiunti",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 66,
+        "source" : "Londeix Vol.1 — Formule di studio",
+        "tags" : ["Mib maggiore", "gradi congiunti", "base"],
+        "notes" : "Moto per gradi congiunti nel registro basso-medio."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 51 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 51 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-004",
+      "version" : 1,
+      "title" : "Arpeggio Fa maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 3, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 72,
+        "source" : "Londeix Vol.1 — Arpeggi",
+        "tags" : ["Fa maggiore", "arpeggio", "3/4", "base"],
+        "notes" : "Arpeggio di Fa maggiore in 3/4. Salti di terza."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-005",
+      "version" : 1,
+      "title" : "Ottave — controllo registro",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 56,
+        "source" : "Rubank Int. — Octaves",
+        "tags" : ["ottave", "registro", "base"],
+        "notes" : "Salti d'ottava per controllare il passaggio di registro."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-006",
+      "version" : 1,
+      "title" : "Do maggiore — scala e pause",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 66,
+        "source" : "Rubank Int. — Scale Studies",
+        "tags" : ["Do maggiore", "scala", "pause", "base"],
+        "notes" : "Scala di Do con pause intermedie per la respirazione."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "half", "isRest" : true, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-007",
+      "version" : 1,
+      "title" : "Terze in Sib maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 66,
+        "source" : "Londeix Vol.1 — Intervalli",
+        "tags" : ["Sib maggiore", "terze", "intervalli", "base"],
+        "notes" : "Intervalli di terza ascendenti e discendenti."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "half", "isRest" : true, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-008",
+      "version" : 1,
+      "title" : "Melodia semplice — Lab maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -4, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 72,
+        "source" : "Londeix Vol.1 — Melodie",
+        "tags" : ["Lab maggiore", "melodia", "base"],
+        "notes" : "Frase melodica semplice con arco ascendente-discendente."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-009",
+      "version" : 1,
+      "title" : "Crome in Sol maggiore",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 72,
+        "source" : "Rubank Int. — Tonalità Sol",
+        "tags" : ["Sol maggiore", "crome", "intermedio"],
+        "notes" : "Scala e arpeggio in crome. Articolazione regolare."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-010",
+      "version" : 1,
+      "title" : "Arpeggi Re maggiore — crome",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 72,
+        "source" : "Rubank Int. — Tonalità Re",
+        "tags" : ["Re maggiore", "arpeggi", "intermedio"],
+        "notes" : "Pattern di arpeggio spezzato ascendente e discendente."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 74 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 74, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 74 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-011",
+      "version" : 1,
+      "title" : "Cromatismo — registro medio",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 60,
+        "source" : "Londeix Vol.1 — Cromatismi",
+        "tags" : ["cromatica", "registro medio", "intermedio"],
+        "notes" : "Scala cromatica nel registro medio. Diteggiature precise."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 61, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 61, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-012",
+      "version" : 1,
+      "title" : "Ritmo puntato — Sib maggiore",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 72,
+        "source" : "Rubank Int. — Dotted Rhythms",
+        "tags" : ["Sib maggiore", "punto", "intermedio"],
+        "notes" : "Ritmo puntato (semiminima puntata + croma) applicato a melodia."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-013",
+      "version" : 1,
+      "title" : "Quarte e quinte — Fa maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 66,
+        "source" : "Londeix Vol.1 — Intervalli larghi",
+        "tags" : ["Fa maggiore", "quarte", "quinte", "intermedio"],
+        "notes" : "Salti di quarta e quinta giusta. Controllo dell'emissione."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-014",
+      "version" : 1,
+      "title" : "Semicrome in Mib maggiore",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 56,
+        "source" : "Rubank Int. — Sixteenth Notes",
+        "tags" : ["Mib maggiore", "semicrome", "intermedio"],
+        "notes" : "Gruppi di semicrome scalari. Velocità delle dita."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 75 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 75, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 75, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-015",
+      "version" : 1,
+      "title" : "Legato in Lab maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 3, "denominator" : 4 },
+      "keySignature" : { "fifths" : -4, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 80,
+        "source" : "Londeix Vol.1 — Legato",
+        "tags" : ["Lab maggiore", "legato", "3/4", "intermedio"],
+        "notes" : "Frase legata in 3/4. Collegare le note senza interruzione."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 56 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 56 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-016",
+      "version" : 1,
+      "title" : "Re minore — melodia espressiva",
+      "author" : "Rubank Int.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "minor" },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 66,
+        "source" : "Rubank Int. — Minor Keys",
+        "tags" : ["Re minore", "melodia", "intermedio"],
+        "notes" : "Prima tonalità minore. Attenzione al sesto e settimo grado."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 61 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 61 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-017",
+      "version" : 1,
+      "title" : "La maggiore — scala rapida",
+      "author" : "Rubank Adv.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 80,
+        "source" : "Rubank Adv. Vol.1 — Tonalità La",
+        "tags" : ["La maggiore", "semicrome", "scala", "avanzato"],
+        "notes" : "Scala rapida in semicrome su 2 ottave."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 61, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 61, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-018",
+      "version" : 1,
+      "title" : "Salti ampi — Sol maggiore",
+      "author" : "Rubank Adv.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 66,
+        "source" : "Rubank Adv. Vol.1 — Wide Intervals",
+        "tags" : ["Sol maggiore", "salti", "avanzato"],
+        "notes" : "Intervalli di sesta, settima e ottava. Emissione controllata."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 59 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-019",
+      "version" : 1,
+      "title" : "Mi minore — étude",
+      "author" : "Rubank Adv.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 1, "mode" : "minor" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 72,
+        "source" : "Rubank Adv. Vol.1 — Minor Études",
+        "tags" : ["Mi minore", "étude", "avanzato"],
+        "notes" : "Studio in minore con settimo grado alterato (sensibile)."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 75 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 76 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 75 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 66, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 75 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 76 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-020",
+      "version" : 1,
+      "title" : "Arpeggi spezzati — Do maggiore",
+      "author" : "Rubank Adv.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 66,
+        "source" : "Rubank Adv. Vol.1 — Broken Arpeggios",
+        "tags" : ["Do maggiore", "arpeggi", "semicrome", "avanzato"],
+        "notes" : "Arpeggi spezzati in semicrome su accordi diatonici."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 74, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 74, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-021",
+      "version" : 1,
+      "title" : "Terzine melodiche — Fa maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 72,
+        "source" : "Londeix Vol.1 — Terzine",
+        "tags" : ["Fa maggiore", "terzine", "avanzato"],
+        "notes" : "Terzine melodiche con pattern scalari e di arpeggio."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 55, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 57, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-022",
+      "version" : 1,
+      "title" : "Legature cross-bar — Sib maggiore",
+      "author" : "Rubank Adv.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 72,
+        "source" : "Rubank Adv. Vol.1 — Tied Notes",
+        "tags" : ["Sib maggiore", "legature", "sincope", "avanzato"],
+        "notes" : "Legature di valore tra battute. Contare durante il suono tenuto."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true, "pitch" : 70 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-023",
+      "version" : 1,
+      "title" : "6/8 — Mib maggiore",
+      "author" : "Londeix",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 6, "denominator" : 8 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 80,
+        "source" : "Londeix Vol.1 — Tempo composto",
+        "tags" : ["Mib maggiore", "6/8", "composto", "avanzato"],
+        "notes" : "Melodia in 6/8. Raggruppamento binario di terzine naturali."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 68 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 63, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 75, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 70, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 63 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 63 }
+        ]}
+      ]
+    },
+    {
+      "id" : "SAX-P-024",
+      "version" : 1,
+      "title" : "Étude combinata — Do maggiore",
+      "author" : "Rubank Adv.",
+      "createdDate" : "2026-04-11T12:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 72,
+        "source" : "Rubank Adv. Vol.1 — Études",
+        "tags" : ["Do maggiore", "étude", "combinato", "avanzato"],
+        "notes" : "Studio finale: scala, arpeggio, ritmo puntato, legature."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 62 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 64, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 72, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 71 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 69 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 65 },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false, "pitch" : 60 }
+        ]}
+      ]
+    }
+  ]
+}

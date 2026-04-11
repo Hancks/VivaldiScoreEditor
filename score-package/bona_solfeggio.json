@@ -1,0 +1,805 @@
+{
+  "id" : "bona-solfeggio-divisione",
+  "title" : "Il Nuovo Bona — Solfeggio e Divisione",
+  "author" : "Pasquale Bona (trascrizione Vivaldi)",
+  "description" : "16 esercizi progressivi ispirati al metodo Bona. Chiave di basso. Dalla scala di semibrevi fino agli studi completi con terzine e sincopi.",
+  "scores" : [
+    {
+      "id" : "BONA-001",
+      "version" : 1,
+      "title" : "Scale di Semibrevi",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 50,
+        "source" : "Bona — Parte Prima, Es. 1",
+        "tags" : ["Do maggiore", "semibrevi", "scala", "chiave di basso", "base"],
+        "notes" : "Scala di Do in semibrevi. Leggere in chiave di Fa."
+      },
+      "bars" : [
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 48 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 50 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 52 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 53 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 55 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 57 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 59 } ] },
+        { "events" : [ { "duration" : "whole", "isRest" : false, "pitch" : 60 } ] }
+      ]
+    },
+    {
+      "id" : "BONA-002",
+      "version" : 1,
+      "title" : "Scale di Minime",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 56,
+        "source" : "Bona — Parte Prima, Es. 2",
+        "tags" : ["Do maggiore", "minime", "scala", "chiave di basso", "base"],
+        "notes" : "Scala di Do asc/disc in minime."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 48 },
+          { "duration" : "half", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 52 },
+          { "duration" : "half", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 55 },
+          { "duration" : "half", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 59 },
+          { "duration" : "half", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 59 },
+          { "duration" : "half", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 55 },
+          { "duration" : "half", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 52 },
+          { "duration" : "half", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-003",
+      "version" : 1,
+      "title" : "Scale di Semiminime",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 66,
+        "source" : "Bona — Parte Prima, Es. 3",
+        "tags" : ["Do maggiore", "semiminime", "scala", "chiave di basso", "base"],
+        "notes" : "Scala completa in semiminime con movimento misto."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 59 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 59 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-004",
+      "version" : 1,
+      "title" : "Scale di Crome",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 56,
+        "source" : "Bona — Parte Prima, Es. 4",
+        "tags" : ["Do maggiore", "crome", "scala", "chiave di basso", "base"],
+        "notes" : "Scala di Do in crome. Doppia velocità rispetto alle semiminime."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 48, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 52, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 59, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 59, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 52, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 48, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-005",
+      "version" : 1,
+      "title" : "Intervalli di Terza",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 66,
+        "source" : "Bona — Parte Prima, Es. 6",
+        "tags" : ["Do maggiore", "terze", "intervalli", "chiave di basso"],
+        "notes" : "Salti di terza ascendenti e discendenti in chiave di Fa."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 59 },
+          { "duration" : "half", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 59 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 50 },
+          { "duration" : "half", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-006",
+      "version" : 1,
+      "title" : "Intervalli di Quinta",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 60,
+        "source" : "Bona — Parte Prima, Es. 10-12",
+        "tags" : ["Do maggiore", "quinte", "intervalli", "chiave di basso"],
+        "notes" : "Salti di quinta. Controllo dell'intonazione nei salti ampi."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 48 },
+          { "duration" : "half", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 50 },
+          { "duration" : "half", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 52 },
+          { "duration" : "half", "isRest" : false, "pitch" : 59 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 53 },
+          { "duration" : "half", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 59 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-007",
+      "version" : 1,
+      "title" : "Intervalli di Sesta e Settima",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 1, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 60,
+        "source" : "Bona — Parte Prima, Es. 15-18",
+        "tags" : ["Sol maggiore", "seste", "settime", "intervalli", "chiave di basso"],
+        "notes" : "Salti ampi di sesta e settima. Chiave di basso con un diesis."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 43 },
+          { "duration" : "half", "isRest" : false, "pitch" : 52 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 45 },
+          { "duration" : "half", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 47 },
+          { "duration" : "half", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 43 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 54 },
+          { "duration" : "half", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 45 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 54 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 43 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 43 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-008",
+      "version" : 1,
+      "title" : "Valori misti con pause",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 66,
+        "source" : "Bona — Parte Prima, Es. 40-42",
+        "tags" : ["Do maggiore", "pause", "valori misti", "chiave di basso"],
+        "notes" : "Melodia con minime, semiminime, crome e pause."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "half", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 59 },
+          { "duration" : "quarter", "isRest" : true },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 53 },
+          { "duration" : "half", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-009",
+      "version" : 1,
+      "title" : "Della Sincope",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 60,
+        "source" : "Bona — Parte Seconda, Es. 61-63",
+        "tags" : ["Do maggiore", "sincope", "legature", "chiave di basso"],
+        "notes" : "Sincopi: accento spostato con legature di valore. Punto, legatura e sincope producono lo stesso effetto."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 52 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 48 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-010",
+      "version" : 1,
+      "title" : "Andantino in 2/4",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 2, "denominator" : 4 },
+      "keySignature" : { "fifths" : 1, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 80,
+        "source" : "Bona — Parte Seconda, Es. 77",
+        "tags" : ["Sol maggiore", "2/4", "andantino", "chiave di basso", "brano"],
+        "notes" : "Brano melodico in 2/4. Ritmo puntato, crome, fraseggio."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 43 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 45 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 47, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 52 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 54, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 52, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 47, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 45 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 54 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 52 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 47, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 45, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 47, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 43 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-011",
+      "version" : 1,
+      "title" : "Larghetto in 3/8",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 3, "denominator" : 8 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 56,
+        "source" : "Bona — Parte Seconda, Es. 78",
+        "tags" : ["Fa maggiore", "3/8", "larghetto", "terzine", "chiave di basso"],
+        "notes" : "Tempo 3/8, melodia espressiva con terzine."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-012",
+      "version" : 1,
+      "title" : "Moderato assai in 3/8",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 3, "denominator" : 8 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 66,
+        "source" : "Bona — Parte Seconda, Es. 85",
+        "tags" : ["Mib maggiore", "3/8", "moderato", "semicrome", "chiave di basso"],
+        "notes" : "Studio in Mib con semicrome. Tonalità con 3 bemolli."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 51 },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 56 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 56 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 51 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 51 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 56 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "pitch" : 50 },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 51 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 51 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-013",
+      "version" : 1,
+      "title" : "Allegretto in 12/8",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 12, "denominator" : 8 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 80,
+        "source" : "Bona — Parte Seconda, Es. 94",
+        "tags" : ["Fa maggiore", "12/8", "composto", "allegretto", "chiave di basso"],
+        "notes" : "Tempo composto 12/8: 4 gruppi da 3 crome. Flusso melodico continuo."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 57 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 57, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-014",
+      "version" : 1,
+      "title" : "Largo espressivo",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "minor" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 56,
+        "source" : "Bona — Parte Terza, Es. 101",
+        "tags" : ["Sol minore", "largo", "terzine", "espressivo", "chiave di basso"],
+        "notes" : "Studio espressivo in Sol minore con terzine e ritmo puntato."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 43 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 46 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "pitch" : 50, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 54 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 48, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 46 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 48 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 46 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 46 },
+          { "duration" : "half", "isRest" : false, "pitch" : 43 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 55, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 53, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 50, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 54 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 50 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 48 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 46 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 54 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 43 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-015",
+      "version" : 1,
+      "title" : "Moderato — Studio completo",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 2, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 72,
+        "source" : "Bona — Parte Terza, Es. 107",
+        "tags" : ["Sib maggiore", "2/4", "moderato", "semicrome", "terzine", "chiave di basso"],
+        "notes" : "Studio completo in 2/4: semicrome, terzine, ritmo puntato, tutto combinato."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 46, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 48, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 50, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 51, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "pitch" : 55 },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 51, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "pitch" : 48, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 50, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 53, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 51, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 48 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "pitch" : 51, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 50, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 48, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 46 },
+          { "duration" : "eighth", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 46 }
+        ]}
+      ]
+    },
+    {
+      "id" : "BONA-016",
+      "version" : 1,
+      "title" : "Allegro — Finale",
+      "author" : "Pasquale Bona",
+      "createdDate" : "2026-04-11T16:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "clef" : "bass",
+      "metadata" : {
+        "difficulty" : 6,
+        "suggestedBPM" : 88,
+        "source" : "Bona — Parte Terza, Es. 114",
+        "tags" : ["Mib maggiore", "allegro", "brano completo", "semicrome", "terzine", "chiave di basso"],
+        "notes" : "Studio finale: tutte le difficoltà combinate. Allegro con semicrome, terzine, sincopi, punti."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 51 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 56, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 56 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "pitch" : 55, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 53, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 51, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 50 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 51 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 53, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55 },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 56, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 51, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 50, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 48 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 51 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 53 },
+          { "duration" : "half", "isRest" : false, "pitch" : 51 }
+        ]}
+      ]
+    }
+  ]
+}

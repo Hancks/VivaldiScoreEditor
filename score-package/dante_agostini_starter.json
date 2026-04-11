@@ -1,0 +1,1144 @@
+{
+  "id" : "dante-agostini-rhythm-starter",
+  "title" : "Solfeggio Ritmico — Dante Agostini Vol.1",
+  "author" : "Dante Agostini (trascrizione Vivaldi)",
+  "description" : "24 esercizi progressivi ispirati al metodo Solfège Rythmique N°1. Dai valori base (semiminime, minime) fino a terzine e figure miste.",
+  "scores" : [
+    {
+      "id" : "DA-R-001",
+      "version" : 1,
+      "title" : "Semiminime — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.1",
+        "tags" : ["4/4", "semiminime", "base"],
+        "notes" : "Solo semiminime. Contare 1-2-3-4 su ogni battuta."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-002",
+      "version" : 1,
+      "title" : "Minime e Semiminime — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.1",
+        "tags" : ["4/4", "semiminime", "minime", "base"],
+        "notes" : "Semiminime e minime. La minima vale 2 battiti."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-003",
+      "version" : 1,
+      "title" : "Semiminime — 3/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 3, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 72,
+        "source" : "Agostini Vol.1 — Cap.1",
+        "tags" : ["3/4", "semiminime", "minime", "base"],
+        "notes" : "Tempo ternario con semiminime e minime puntate."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-004",
+      "version" : 1,
+      "title" : "Valori lunghi — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.1",
+        "tags" : ["4/4", "semibreve", "minime", "base"],
+        "notes" : "Introduzione della semibreve (4 battiti) e minima puntata."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : true, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-005",
+      "version" : 1,
+      "title" : "Crome base — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.2 La Croche",
+        "tags" : ["4/4", "crome", "base"],
+        "notes" : "Introduzione delle crome. Contare 1-e-2-e-3-e-4-e."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-006",
+      "version" : 1,
+      "title" : "Crome e minime — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 66,
+        "source" : "Agostini Vol.1 — Cap.2 La Croche",
+        "tags" : ["4/4", "crome", "minime", "base"],
+        "notes" : "Alternanza crome e valori lunghi."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-007",
+      "version" : 1,
+      "title" : "Pause di semiminima — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.1",
+        "tags" : ["4/4", "pause", "semiminime", "base"],
+        "notes" : "Pause di semiminima e minima. Contare il silenzio."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : true, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-008",
+      "version" : 1,
+      "title" : "Pause di croma — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 1,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.2",
+        "tags" : ["4/4", "pause", "crome", "base"],
+        "notes" : "Pause di croma: mezzo battito di silenzio."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-009",
+      "version" : 1,
+      "title" : "Semiminima puntata — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 66,
+        "source" : "Agostini Vol.1 — Cap.3",
+        "tags" : ["4/4", "punto", "crome", "intermedio"],
+        "notes" : "Semiminima puntata + croma: il ritmo 'lunga-corta'."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-010",
+      "version" : 1,
+      "title" : "Legature — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 66,
+        "source" : "Agostini Vol.1 — Cap.3",
+        "tags" : ["4/4", "legature", "intermedio"],
+        "notes" : "Legature di valore tra battiti e tra battute."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : true, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-011",
+      "version" : 1,
+      "title" : "Semicrome base — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 56,
+        "source" : "Agostini Vol.1 — Cap.4 La Double-Croche",
+        "tags" : ["4/4", "semicrome", "intermedio"],
+        "notes" : "Gruppi di 4 semicrome. Contare 1-e-e-e-2-e-e-e."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-012",
+      "version" : 1,
+      "title" : "Croma + semicrome miste — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 56,
+        "source" : "Agostini Vol.1 — Cap.5",
+        "tags" : ["4/4", "semicrome", "crome", "intermedio"],
+        "notes" : "Figure miste: croma + 2 semicrome e 2 semicrome + croma."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-013",
+      "version" : 1,
+      "title" : "Croma puntata — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.5",
+        "tags" : ["4/4", "punto", "crome", "semicrome", "intermedio"],
+        "notes" : "Croma puntata + semicroma: ritmo 'swing' classico."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-014",
+      "version" : 1,
+      "title" : "Sincope semplice — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.6",
+        "tags" : ["4/4", "sincope", "intermedio"],
+        "notes" : "Sincope: accento sul tempo debole con legatura."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-015",
+      "version" : 1,
+      "title" : "Valori misti — 3/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 3, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 72,
+        "source" : "Agostini Vol.1 — Cap.5",
+        "tags" : ["3/4", "semicrome", "crome", "intermedio"],
+        "notes" : "Tempo ternario con crome e semicrome miste."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-016",
+      "version" : 1,
+      "title" : "Pause miste — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 2,
+        "suggestedBPM" : 56,
+        "source" : "Agostini Vol.1 — Cap.5",
+        "tags" : ["4/4", "pause", "semicrome", "intermedio"],
+        "notes" : "Pause di semicroma e croma in contesti ritmici complessi."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : true, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-017",
+      "version" : 1,
+      "title" : "Terzine di crome — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.7 Le Triolet",
+        "tags" : ["4/4", "terzine", "avanzato"],
+        "notes" : "Terzine di crome: 3 note nello spazio di 1 battito."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-018",
+      "version" : 1,
+      "title" : "Terzine e crome miste — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 60,
+        "source" : "Agostini Vol.1 — Cap.7",
+        "tags" : ["4/4", "terzine", "crome", "avanzato"],
+        "notes" : "Alternanza terzine e crome regolari: due suddivisioni diverse."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 9, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 9, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 10, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 10, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 10, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-019",
+      "version" : 1,
+      "title" : "Terzine con pause — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 56,
+        "source" : "Agostini Vol.1 — Cap.8",
+        "tags" : ["4/4", "terzine", "pause", "avanzato"],
+        "notes" : "Terzine incomplete: 1a o 3a nota mancante."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-020",
+      "version" : 1,
+      "title" : "Semicrome e terzine — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 52,
+        "source" : "Agostini Vol.1 — Cap.9",
+        "tags" : ["4/4", "semicrome", "terzine", "avanzato"],
+        "notes" : "Gruppi di semicrome alternati a terzine: controllo ritmico fine."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 8, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-021",
+      "version" : 1,
+      "title" : "Sincope e legature avanzate — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 56,
+        "source" : "Agostini Vol.1 — Cap.9",
+        "tags" : ["4/4", "sincope", "legature", "avanzato"],
+        "notes" : "Sincopi con legature tra battute e controtempo."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-022",
+      "version" : 1,
+      "title" : "Punto e controtempo — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 52,
+        "source" : "Agostini Vol.1 — Cap.10",
+        "tags" : ["4/4", "punto", "controtempo", "avanzato"],
+        "notes" : "Figure puntate complesse e controtempo sistematico."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-023",
+      "version" : 1,
+      "title" : "Tempo composto — 6/8",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 6, "denominator" : 8 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 80,
+        "source" : "Agostini Vol.1 — Études",
+        "tags" : ["6/8", "composto", "avanzato"],
+        "notes" : "Tempo composto 6/8: raggruppamento in 2 gruppi da 3."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "DA-R-024",
+      "version" : 1,
+      "title" : "Étude combinata — 4/4",
+      "author" : "Dante Agostini",
+      "createdDate" : "2026-04-11T10:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 3,
+        "suggestedBPM" : 66,
+        "source" : "Agostini Vol.1 — Études",
+        "tags" : ["4/4", "étude", "combinato", "avanzato"],
+        "notes" : "Studio finale: tutte le figure ritmiche combinate."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : true, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "dotted" : false, "tieToNext" : false, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "dotted" : false, "tieToNext" : false }
+        ]}
+      ]
+    }
+  ]
+}

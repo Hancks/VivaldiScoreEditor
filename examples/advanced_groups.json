@@ -1,0 +1,102 @@
+{
+  "author" : "Vivaldi App",
+  "bars" : [
+    {
+      "events" : [
+        { "duration" : "quarter", "isRest" : false, "pitch" : 69 },
+        { "duration" : "triplet", "groupId" : 1, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "pitch" : 71 },
+        { "duration" : "triplet", "groupId" : 1, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "triplet", "groupId" : 1, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 74 },
+        { "duration" : "eighth", "groupId" : 10, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 76 },
+        { "duration" : "eighth", "groupId" : 10, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 78 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "triplet", "groupId" : 2, "groupPosition" : "first", "groupType" : "triplet", "isRest" : true },
+        { "duration" : "triplet", "groupId" : 2, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 76 },
+        { "duration" : "triplet", "groupId" : 2, "groupPosition" : "last", "groupType" : "triplet", "isRest" : true },
+        { "duration" : "quarterTriplet", "groupId" : 3, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "pitch" : 74 },
+        { "duration" : "quarterTriplet", "groupId" : 3, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "quarterTriplet", "groupId" : 3, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 71, "tieToNext" : true }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "quarter", "isRest" : false, "pitch" : 71 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "first", "groupType" : "sextuplet", "isRest" : false, "pitch" : 69 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : false, "pitch" : 71 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : false, "pitch" : 74 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : false, "pitch" : 76 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "last", "groupType" : "sextuplet", "isRest" : false, "pitch" : 78 },
+        { "duration" : "quarter", "isRest" : false, "pitch" : 80, "tieToNext" : true }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "half", "isRest" : false, "pitch" : 80 },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "first", "groupType" : "septuplet", "isRest" : false, "pitch" : 80 },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "middle", "groupType" : "septuplet", "isRest" : false, "pitch" : 78 },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "middle", "groupType" : "septuplet", "isRest" : false, "pitch" : 76 },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "middle", "groupType" : "septuplet", "isRest" : false, "pitch" : 74 },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "middle", "groupType" : "septuplet", "isRest" : true },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "middle", "groupType" : "septuplet", "isRest" : false, "pitch" : 71 },
+        { "duration" : "eighth", "groupId" : 5, "groupPosition" : "last", "groupType" : "septuplet", "isRest" : false, "pitch" : 69 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "quarterTriplet", "groupId" : 6, "groupPosition" : "first", "groupType" : "quintuplet", "isRest" : false, "pitch" : 69 },
+        { "duration" : "quarterTriplet", "groupId" : 6, "groupPosition" : "middle", "groupType" : "quintuplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "quarterTriplet", "groupId" : 6, "groupPosition" : "middle", "groupType" : "quintuplet", "isRest" : false, "pitch" : 76 },
+        { "duration" : "quarterTriplet", "groupId" : 6, "groupPosition" : "middle", "groupType" : "quintuplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "quarterTriplet", "groupId" : 6, "groupPosition" : "last", "groupType" : "quintuplet", "isRest" : false, "pitch" : 69 },
+        { "dotted" : true, "duration" : "quarter", "isRest" : false, "pitch" : 67 },
+        { "duration" : "eighth", "isRest" : false, "pitch" : 69 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "sixteenth", "groupId" : 11, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 71 },
+        { "duration" : "sixteenth", "groupId" : 11, "groupPosition" : "middle", "groupType" : "beam", "isRest" : false, "pitch" : 73 },
+        { "duration" : "sixteenth", "groupId" : 11, "groupPosition" : "middle", "groupType" : "beam", "isRest" : false, "pitch" : 74 },
+        { "duration" : "sixteenth", "groupId" : 11, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 76 },
+        { "duration" : "eighth", "groupId" : 12, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 78 },
+        { "duration" : "eighth", "groupId" : 12, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 76 },
+        { "duration" : "half", "isRest" : false, "pitch" : 74, "tieToNext" : true }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "quarter", "isRest" : false, "pitch" : 74 },
+        { "duration" : "quarter", "isRest" : true },
+        { "duration" : "eighth", "groupId" : 7, "groupPosition" : "first", "groupType" : "sextuplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "eighth", "groupId" : 7, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : true },
+        { "duration" : "eighth", "groupId" : 7, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : false, "pitch" : 71 },
+        { "duration" : "eighth", "groupId" : 7, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : true },
+        { "duration" : "eighth", "groupId" : 7, "groupPosition" : "middle", "groupType" : "sextuplet", "isRest" : false, "pitch" : 69 },
+        { "duration" : "eighth", "groupId" : 7, "groupPosition" : "last", "groupType" : "sextuplet", "isRest" : false, "pitch" : 67 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "whole", "isRest" : false, "pitch" : 69 }
+      ]
+    }
+  ],
+  "createdDate" : "2026-04-10T22:30:00Z",
+  "id" : "ADVANCED-GROUPS-DEMO-0001",
+  "keySignature" : { "fifths" : 3, "mode" : "major" },
+  "metadata" : {
+    "difficulty" : 7,
+    "notes" : "Terzine crome (con pausa 1a e 3a), terzine semiminime con legatura cross-bar, sestine di crome ascendenti con legatura cross-bar, settina di crome discendente con pausa interna, quintina di semiminime, semicrome beamate, sestina con pause alternate, beaming di leggibilità standard.",
+    "source" : "curated",
+    "suggestedBPM" : 66,
+    "tags" : ["La maggiore", "terzine", "sestine", "settine", "quintine", "beaming", "maestro", "gruppi irregolari"]
+  },
+  "scoreType" : "pitch",
+  "timeSignature" : { "denominator" : 4, "numerator" : 4 },
+  "title" : "Gruppi Irregolari — Maestro Level",
+  "version" : 1
+}

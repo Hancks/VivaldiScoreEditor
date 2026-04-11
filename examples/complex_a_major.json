@@ -1,0 +1,97 @@
+{
+  "author" : "Vivaldi App",
+  "bars" : [
+    {
+      "events" : [
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 69, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 71, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 73, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 74, "tieToNext" : false }
+      ]
+    },
+    {
+      "events" : [
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 76, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 78, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 80, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 81, "tieToNext" : true }
+      ]
+    },
+    {
+      "events" : [
+        { "dotted" : false, "duration" : "half", "isRest" : false, "pitch" : 81, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : true, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 80, "tieToNext" : false }
+      ]
+    },
+    {
+      "events" : [
+        { "dotted" : false, "duration" : "triplet", "groupId" : 1, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "pitch" : 78, "tieToNext" : false },
+        { "dotted" : false, "duration" : "triplet", "groupId" : 1, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 76, "tieToNext" : false },
+        { "dotted" : false, "duration" : "triplet", "groupId" : 1, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 74, "tieToNext" : false },
+        { "dotted" : false, "duration" : "triplet", "groupId" : 2, "groupPosition" : "first", "groupType" : "triplet", "isRest" : true, "pitch" : null, "tieToNext" : false },
+        { "dotted" : false, "duration" : "triplet", "groupId" : 2, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 73, "tieToNext" : false },
+        { "dotted" : false, "duration" : "triplet", "groupId" : 2, "groupPosition" : "last", "groupType" : "triplet", "isRest" : true, "pitch" : null, "tieToNext" : false },
+        { "dotted" : false, "duration" : "half", "isRest" : false, "pitch" : 71, "tieToNext" : false }
+      ]
+    },
+    {
+      "events" : [
+        { "dotted" : false, "duration" : "quarterTriplet", "groupId" : 3, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "pitch" : 69, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarterTriplet", "groupId" : 3, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 73, "tieToNext" : false },
+        { "dotted" : false, "duration" : "quarterTriplet", "groupId" : 3, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 76, "tieToNext" : false },
+        { "dotted" : true, "duration" : "quarter", "isRest" : false, "pitch" : 74, "slurLength" : 3 },
+        { "dotted" : false, "duration" : "eighth", "isRest" : false, "pitch" : 73, "tieToNext" : true }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "quarter", "isRest" : false, "pitch" : 73 },
+        { "duration" : "eighth", "groupId" : 20, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 71 },
+        { "duration" : "eighth", "groupId" : 20, "groupPosition" : "last", "groupType" : "beam", "isRest" : true },
+        { "duration" : "sixteenth", "groupId" : 21, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 69 },
+        { "duration" : "sixteenth", "groupId" : 21, "groupPosition" : "middle", "groupType" : "beam", "isRest" : false, "pitch" : 71 },
+        { "duration" : "sixteenth", "groupId" : 21, "groupPosition" : "middle", "groupType" : "beam", "isRest" : false, "pitch" : 73 },
+        { "duration" : "sixteenth", "groupId" : 21, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 74 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "triplet", "groupId" : 4, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "pitch" : 76 },
+        { "duration" : "triplet", "groupId" : 4, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 74 },
+        { "duration" : "triplet", "groupId" : 4, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "quarter", "isRest" : false, "pitch" : 71, "tieToNext" : true },
+        { "duration" : "quarter", "isRest" : false, "pitch" : 71 },
+        { "duration" : "quarter", "isRest" : false, "pitch" : 69 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "sixteenth", "groupId" : 30, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "pitch" : 71 },
+        { "duration" : "sixteenth", "groupId" : 30, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 73 },
+        { "duration" : "sixteenth", "groupId" : 30, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 74 },
+        { "dotted" : true, "duration" : "quarter", "isRest" : false, "pitch" : 73 },
+        { "duration" : "half", "isRest" : false, "pitch" : 69 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "whole", "isRest" : false, "pitch" : 69 }
+      ]
+    }
+  ],
+  "createdDate" : "2026-04-10T21:30:00Z",
+  "id" : "COMPLEX-A-MAJOR-DEMO-0001",
+  "keySignature" : { "fifths" : 3, "mode" : "major" },
+  "metadata" : {
+    "difficulty" : 6,
+    "notes" : "Scala La maggiore ascendente con legatura cross-bar, terzine di crome (una con prima e terza pausa), terzine di semiminima, nota puntata, sincope con legatura, semicrome, nota legata cross-bar, semibreve finale.",
+    "source" : "curated",
+    "suggestedBPM" : 72,
+    "tags" : ["La maggiore", "terzine", "sincope", "legature", "semicrome", "avanzato"]
+  },
+  "scoreType" : "pitch",
+  "timeSignature" : { "denominator" : 4, "numerator" : 4 },
+  "title" : "Studio in La Maggiore — Complesso",
+  "version" : 1
+}

@@ -1,0 +1,151 @@
+{
+  "author" : "Vivaldi",
+  "description" : "Pack di esempio con 3 esercizi di diverso tipo e difficoltà",
+  "id" : "sample-pack-001",
+  "scores" : [
+    {
+      "author" : "Vivaldi App",
+      "bars" : [
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "half", "isRest" : false, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "half", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : true, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : true, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "whole", "isRest" : false, "tieToNext" : false }
+          ]
+        }
+      ],
+      "createdDate" : "2026-04-10T20:00:00Z",
+      "id" : "A1B2C3D4-0001-0001-0001-000000000001",
+      "metadata" : {
+        "difficulty" : 2,
+        "notes" : "Esercizio base con semiminime, minime e una pausa",
+        "source" : "curated",
+        "suggestedBPM" : 70,
+        "tags" : ["4/4", "base", "pause"]
+      },
+      "scoreType" : "rhythm",
+      "timeSignature" : { "denominator" : 4, "numerator" : 4 },
+      "title" : "Primi Passi - 4/4",
+      "version" : 1
+    },
+    {
+      "author" : "Vivaldi App",
+      "bars" : [
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 67, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 69, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 71, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 72, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "half", "isRest" : false, "pitch" : 72, "tieToNext" : false },
+            { "dotted" : false, "duration" : "half", "isRest" : false, "pitch" : 67, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 64, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 65, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 67, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "pitch" : 69, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "whole", "isRest" : false, "pitch" : 72, "tieToNext" : false }
+          ]
+        }
+      ],
+      "createdDate" : "2026-04-10T20:00:00Z",
+      "id" : "A1B2C3D4-0002-0002-0002-000000000002",
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 2,
+        "notes" : "Scala Do maggiore ascendente con salto - lettura note",
+        "source" : "curated",
+        "suggestedBPM" : 60,
+        "tags" : ["pitch", "Do maggiore", "scala", "base"]
+      },
+      "scoreType" : "pitch",
+      "timeSignature" : { "denominator" : 4, "numerator" : 4 },
+      "title" : "Scala Do Maggiore",
+      "version" : 1
+    },
+    {
+      "author" : "Vivaldi App",
+      "bars" : [
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "eighth", "isRest" : true, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : true }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "triplet", "groupId" : 1, "groupPosition" : "first", "groupType" : "triplet", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "triplet", "groupId" : 1, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "triplet", "groupId" : 1, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "tieToNext" : false },
+            { "dotted" : true, "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "eighth", "isRest" : false, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "sixteenth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "sixteenth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+            { "dotted" : false, "duration" : "quarter", "isRest" : true, "tieToNext" : false },
+            { "dotted" : false, "duration" : "half", "isRest" : false, "tieToNext" : false }
+          ]
+        },
+        {
+          "events" : [
+            { "dotted" : false, "duration" : "whole", "isRest" : false, "tieToNext" : false }
+          ]
+        }
+      ],
+      "createdDate" : "2026-04-10T20:00:00Z",
+      "id" : "A1B2C3D4-0003-0003-0003-000000000003",
+      "metadata" : {
+        "difficulty" : 5,
+        "notes" : "Crome, sincope con legatura, terzina, semicrome, punto — livello avanzato",
+        "source" : "curated",
+        "suggestedBPM" : 85,
+        "tags" : ["4/4", "avanzato", "terzine", "sincope", "semicrome"]
+      },
+      "scoreType" : "rhythm",
+      "timeSignature" : { "denominator" : 4, "numerator" : 4 },
+      "title" : "Sincopi e Terzine",
+      "version" : 1
+    }
+  ],
+  "title" : "Pack Esempio - Vivaldi Workshop"
+}

@@ -1,0 +1,821 @@
+{
+  "id" : "advanced-studies-mix",
+  "title" : "Studi Avanzati — Ritmo e Lettura",
+  "author" : "Vivaldi (ispirato a Londeix, Agostini, Rubank)",
+  "description" : "12 studi progressivi di media-alta complessità. Esercizi più lunghi (8-16 battute), scale per intervalli, studi melodici, ritmica avanzata con legature e figure miste.",
+  "scores" : [
+    {
+      "id" : "ADV-001",
+      "version" : 1,
+      "title" : "Scala per terze — Sib maggiore",
+      "author" : "Stile Londeix - Les Gammes",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 72,
+        "source" : "Stile Les Gammes — Tierces",
+        "tags" : ["Sib maggiore", "terze", "scala", "semicrome", "sight reading"],
+        "notes" : "Scala di Sib per terze ascendenti e discendenti in semicrome."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 72, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 74, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 74, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 72, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-002",
+      "version" : 1,
+      "title" : "Scala per quarte — Fa maggiore",
+      "author" : "Stile Londeix - Les Gammes",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 66,
+        "source" : "Stile Les Gammes — Quartes",
+        "tags" : ["Fa maggiore", "quarte", "scala", "semicrome", "sight reading"],
+        "notes" : "Scala di Fa per quarte. Salti più ampi, controllo del registro."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 57, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 57, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-003",
+      "version" : 1,
+      "title" : "Scala in terzine — La maggiore",
+      "author" : "Stile Londeix - Les Gammes",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 80,
+        "source" : "Stile Les Gammes — Triolets",
+        "tags" : ["La maggiore", "terzine", "scala", "sight reading"],
+        "notes" : "Scala di La in terzine ascendenti e discendenti. Suddivisione ternaria."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "pitch" : 57, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 59, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 61, "groupId" : 1, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 62, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 64, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 66, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 68, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 69, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 71, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 73 }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "pitch" : 73, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 71, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 69, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 68, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 66, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 64, "groupId" : 5, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 62, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 61, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "pitch" : 59, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 57 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 57 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-004",
+      "version" : 1,
+      "title" : "Legature avanzate — ritmica pura",
+      "author" : "Stile Agostini — La Liaison",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 60,
+        "source" : "Stile Agostini Vol.1 — La Liaison",
+        "tags" : ["4/4", "legature", "sincope", "controtempo", "avanzato"],
+        "notes" : "Legature cross-bar sistematiche. Il suono si tiene ma il conteggio continua."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "tieToNext" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+          { "duration" : "sixteenth", "isRest" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "tieToNext" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : false },
+          { "duration" : "eighth", "isRest" : true },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : false },
+          { "duration" : "half", "isRest" : false, "tieToNext" : false }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-005",
+      "version" : 1,
+      "title" : "Étude Andante — ritmica pura",
+      "author" : "Stile Agostini — Études",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 72,
+        "source" : "Stile Agostini Vol.1 — Études Andante",
+        "tags" : ["4/4", "étude", "semicrome", "terzine", "figure miste"],
+        "notes" : "Studio combinato: semicrome, crome puntate, terzine, sincopi. 8 battute complete."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 3, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false },
+          { "duration" : "quarter", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 6, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false },
+          { "duration" : "quarter", "isRest" : false },
+          { "duration" : "eighth", "isRest" : true },
+          { "duration" : "eighth", "isRest" : false },
+          { "duration" : "eighth", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 7, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true },
+          { "duration" : "eighth", "isRest" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false },
+          { "duration" : "eighth", "isRest" : false },
+          { "duration" : "quarter", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 9, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 9, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 9, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 9, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 10, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 10, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 11, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 11, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 11, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true },
+          { "duration" : "quarter", "isRest" : true }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-006",
+      "version" : 1,
+      "title" : "Melodia pastorale — Mib maggiore",
+      "author" : "Stile Londeix — Nuova Didattica",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 6, "denominator" : 8 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 96,
+        "source" : "Stile Londeix Nuova Didattica — Melodie popolari",
+        "tags" : ["Mib maggiore", "6/8", "melodia", "fraseggio", "mixed"],
+        "notes" : "Brano melodico in 6/8 stile canto popolare. Fraseggio, respiri, arco musicale."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 67 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 68 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 70 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 68, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 70 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 68 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 70, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 72, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 70, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 68 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 65 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 68 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : false, "pitch" : 65 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 63 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 63 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-007",
+      "version" : 1,
+      "title" : "Studio Moderato — Sib maggiore",
+      "author" : "Stile Rubank Advanced",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 80,
+        "source" : "Stile Rubank Adv. — Études",
+        "tags" : ["Sib maggiore", "étude", "moderato", "brano completo", "mixed"],
+        "notes" : "Étude completo: frase A-B-A con sviluppo melodico, ritmo puntato, crome e semicrome."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 63 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 70 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 69 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 67 },
+          { "duration" : "half", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 70 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 72, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 70, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 69 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 72 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 70, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-008",
+      "version" : 1,
+      "title" : "Meccanica cromatica — étude",
+      "author" : "Stile Londeix Meccanica",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : 0, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 60,
+        "source" : "Stile Londeix Meccanica Vol.1",
+        "tags" : ["cromatica", "semicrome", "meccanica", "avanzato"],
+        "notes" : "Passaggi cromatici in semicrome con cambi di direzione. Tecnica delle dita."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 59, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 61, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 66, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 68, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 71, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 72, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 73, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 74 },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 74, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 73, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 72, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 71, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 69, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 68, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 66, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 61, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 59, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "half", "isRest" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 58 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-009",
+      "version" : 1,
+      "title" : "Canto del Sud — 2/4",
+      "author" : "Stile Londeix — Nuova Didattica",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 2, "denominator" : 4 },
+      "keySignature" : { "fifths" : -1, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 4,
+        "suggestedBPM" : 108,
+        "source" : "Stile Londeix Nuova Didattica — Canti popolari",
+        "tags" : ["Fa maggiore", "2/4", "canto", "brano completo", "mixed"],
+        "notes" : "Brano in 2/4 stile canto popolare. Frasi di 4 battute con respiro."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 64 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 64, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 69 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 64, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 62 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 58 },
+          { "duration" : "quarter", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 64, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 65 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 64, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 57 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 53 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-010",
+      "version" : 1,
+      "title" : "Scale per quinte — Mib maggiore",
+      "author" : "Stile Londeix - Les Gammes",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "pitch",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -3, "mode" : "major" },
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 60,
+        "source" : "Stile Les Gammes — Quintes",
+        "tags" : ["Mib maggiore", "quinte", "semicrome", "sight reading"],
+        "notes" : "Scala per quinte: salti ampi in semicrome continue."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 51, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 1, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 56, "groupId" : 2, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 68, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 70, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 68, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 6, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 7, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 56, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 7, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 55, "groupId" : 7, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 8, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 53, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 8, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 51, "groupId" : 8, "groupType" : "beam", "groupPosition" : "last" }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 51 }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-011",
+      "version" : 1,
+      "title" : "Étude ritmica — figure miste 3/4",
+      "author" : "Stile Agostini — Études",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "rhythm",
+      "timeSignature" : { "numerator" : 3, "denominator" : 4 },
+      "metadata" : {
+        "difficulty" : 5,
+        "suggestedBPM" : 80,
+        "source" : "Stile Agostini Vol.1 — Études 3/4",
+        "tags" : ["3/4", "étude", "figure miste", "terzine", "avanzato"],
+        "notes" : "Studio in 3/4 con tutte le figure ritmiche. 8 battute."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "triplet", "isRest" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 2, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true },
+          { "duration" : "eighth", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true },
+          { "duration" : "eighth", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false },
+          { "duration" : "half", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : true },
+          { "duration" : "eighth", "isRest" : false },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "first" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "middle" },
+          { "duration" : "triplet", "isRest" : false, "groupId" : 4, "groupType" : "triplet", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false },
+          { "duration" : "quarter", "isRest" : false, "tieToNext" : true }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "eighth", "isRest" : false, "dotted" : true },
+          { "duration" : "sixteenth", "isRest" : false }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "dotted" : true }
+        ]}
+      ]
+    },
+    {
+      "id" : "ADV-012",
+      "version" : 1,
+      "title" : "Moderato espressivo — Sol minore",
+      "author" : "Stile Rubank Advanced — Études",
+      "createdDate" : "2026-04-11T14:00:00Z",
+      "scoreType" : "mixed",
+      "timeSignature" : { "numerator" : 4, "denominator" : 4 },
+      "keySignature" : { "fifths" : -2, "mode" : "minor" },
+      "metadata" : {
+        "difficulty" : 6,
+        "suggestedBPM" : 72,
+        "source" : "Stile Rubank Adv. — Concert Études",
+        "tags" : ["Sol minore", "étude", "brano completo", "espressivo", "mixed"],
+        "notes" : "Pezzo completo in Sol minore: tema, sviluppo con semicrome, ripresa. Il livello più alto."
+      },
+      "bars" : [
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 63 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 62 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : false, "pitch" : 58 }
+        ]},
+        { "events" : [
+          { "duration" : "eighth", "isRest" : false, "pitch" : 55, "groupId" : 1, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 58, "groupId" : 1, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 62 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 65, "groupId" : 2, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 63, "groupId" : 2, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 62 }
+        ]},
+        { "events" : [
+          { "duration" : "half", "isRest" : false, "pitch" : 60 },
+          { "duration" : "half", "isRest" : true }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 58, "groupId" : 3, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 60, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 3, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 3, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 4, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 4, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 70 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 68 }
+        ]},
+        { "events" : [
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 67, "groupId" : 5, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 65, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 63, "groupId" : 5, "groupType" : "beam", "groupPosition" : "middle" },
+          { "duration" : "sixteenth", "isRest" : false, "pitch" : 62, "groupId" : 5, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 60 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62, "groupId" : 6, "groupType" : "beam", "groupPosition" : "first" },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 66, "groupId" : 6, "groupType" : "beam", "groupPosition" : "last" },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "pitch" : 55 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 62 },
+          { "duration" : "quarter", "isRest" : false, "pitch" : 66 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 67 }
+        ]},
+        { "events" : [
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 62 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 60 },
+          { "duration" : "quarter", "isRest" : false, "dotted" : true, "pitch" : 58 },
+          { "duration" : "eighth", "isRest" : false, "pitch" : 66 }
+        ]},
+        { "events" : [
+          { "duration" : "whole", "isRest" : false, "pitch" : 55 }
+        ]}
+      ]
+    }
+  ]
+}

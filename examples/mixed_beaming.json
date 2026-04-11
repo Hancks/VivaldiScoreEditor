@@ -1,0 +1,54 @@
+{
+  "author" : "Vivaldi App",
+  "bars" : [
+    {
+      "events" : [
+        { "dotted" : true, "duration" : "eighth", "groupId" : 1, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 60 },
+        { "duration" : "thirtySecond", "groupId" : 1, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 62 },
+        { "duration" : "thirtySecond", "groupId" : 1, "groupPosition" : "middle", "groupType" : "triplet", "isRest" : false, "pitch" : 64 },
+        { "duration" : "thirtySecond", "groupId" : 1, "groupPosition" : "last", "groupType" : "triplet", "isRest" : false, "pitch" : 65 },
+        { "duration" : "half", "isRest" : false, "pitch" : 67 },
+        { "duration" : "quarter", "isRest" : false, "pitch" : 65 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "quarter", "isRest" : false, "pitch" : 64 },
+        { "dotted" : true, "duration" : "eighth", "groupId" : 2, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 65 },
+        { "duration" : "sixteenth", "groupId" : 2, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 64 },
+        { "dotted" : true, "duration" : "quarter", "isRest" : false, "pitch" : 62, "tieToNext" : true },
+        { "duration" : "eighth", "isRest" : false, "pitch" : 62 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "sixteenth", "groupId" : 3, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 60 },
+        { "duration" : "sixteenth", "groupId" : 3, "groupPosition" : "middle", "groupType" : "beam", "isRest" : false, "pitch" : 62 },
+        { "duration" : "eighth", "groupId" : 3, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 64 },
+        { "duration" : "eighth", "groupId" : 4, "groupPosition" : "first", "groupType" : "beam", "isRest" : false, "pitch" : 65 },
+        { "duration" : "sixteenth", "groupId" : 4, "groupPosition" : "middle", "groupType" : "beam", "isRest" : false, "pitch" : 67 },
+        { "duration" : "sixteenth", "groupId" : 4, "groupPosition" : "last", "groupType" : "beam", "isRest" : false, "pitch" : 69 },
+        { "duration" : "half", "isRest" : false, "pitch" : 72 }
+      ]
+    },
+    {
+      "events" : [
+        { "duration" : "whole", "isRest" : false, "pitch" : 60 }
+      ]
+    }
+  ],
+  "createdDate" : "2026-04-10T23:45:00Z",
+  "id" : "MIXED-BEAMING-DEMO-0001",
+  "keySignature" : { "fifths" : 0, "mode" : "major" },
+  "metadata" : {
+    "difficulty" : 6,
+    "notes" : "Mixed beaming: croma puntata + terzina biscrome (immagine di riferimento), croma puntata + semicroma, semicrome + croma miste, legatura con nota puntata.",
+    "source" : "curated",
+    "suggestedBPM" : 60,
+    "tags" : ["Do maggiore", "mixed beaming", "biscrome", "terzina", "avanzato"]
+  },
+  "scoreType" : "pitch",
+  "timeSignature" : { "denominator" : 4, "numerator" : 4 },
+  "title" : "Mixed Beaming — Come l'immagine",
+  "version" : 1
+}
