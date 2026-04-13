@@ -124,10 +124,3 @@ struct ContentView: View {
         }
     }
 }
-
-// MARK: - Make VivaldiScore Hashable for selection
-
-extension VivaldiScore: Hashable {
-    public static func == (lhs: VivaldiScore, rhs: VivaldiScore) -> Bool { lhs.id == rhs.id }
-    public func hash(into hasher: inout Hasher) { hasher.combine(id) }
-}
