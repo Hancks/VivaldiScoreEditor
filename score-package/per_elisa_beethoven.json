@@ -1,0 +1,1317 @@
+{
+  "id": "per-elisa-beethoven-12bars-v10-MIDI-faithful",
+  "version": 2,
+  "title": "Per Elisa (12 battute)",
+  "author": "L. van Beethoven (WoO 59)",
+  "scoreType": "pitch",
+  "timeSignature": {
+    "numerator": 3,
+    "denominator": 8
+  },
+  "keySignature": {
+    "fifths": 0,
+    "mode": "minor"
+  },
+  "clef": "treble",
+  "metadata": {
+    "difficulty": 3,
+    "tags": [
+      "beethoven",
+      "classico",
+      "per-elisa"
+    ],
+    "suggestedBPM": 132,
+    "bpmBeatUnit": "eighth",
+    "notes": "Per Elisa 12 battute (anacrusi + 11 piene). Trascritto da MIDI Beethoven Fur Elise. Bar 3/4/5 hanno pattern: RH = nota+rest+rest+arpeggio salendo (3 sedicesime); LH = arpeggio basso (3 sedicesime)+rest+rest+rest. Bar 8 V variato (D4 C5 B4 invece di E4 G#4 B4). Bar 9 cadenza con C4 e upbeat E5 D#5 al motif bar 10.",
+    "source": "midi-snap-quantized"
+  },
+  "soundFontHint": {
+    "bank": 0,
+    "program": 0,
+    "displayName": "Acoustic Grand Piano",
+    "fallbackToUserSelection": true
+  },
+  "bars": [
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "groupId": 101,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 76,
+          "dynamic": "pp"
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 101,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 75
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "groupId": 102,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 102,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 75
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 102,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 103,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 71
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 103,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 74
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 103,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 72
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 69
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 104,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 60
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 104,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 64
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 104,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 69
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 71
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 105,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 64
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 105,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 68
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 105,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 71
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 72
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 106,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 64
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 106,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 106,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 75
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "groupId": 107,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 107,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 75
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 107,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 108,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 71
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 108,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 74
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 108,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 72
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 69
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 109,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 60
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 109,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 64
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 109,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 69
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 71
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 110,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 62
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 110,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 72
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 110,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 71
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 60
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 111,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 111,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 75
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "groupId": 112,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 112,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 75
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 112,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 76
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 113,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 71
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 113,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 74
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 113,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 72
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 69
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 114,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 60
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 114,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 64
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 114,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 69
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "duration": "sixteenth",
+          "pitch": 71
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "isRest": true
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 115,
+          "groupType": "beam",
+          "groupPosition": "first",
+          "pitch": 64
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 115,
+          "groupType": "beam",
+          "groupPosition": "middle",
+          "pitch": 68
+        },
+        {
+          "duration": "sixteenth",
+          "groupId": 115,
+          "groupType": "beam",
+          "groupPosition": "last",
+          "pitch": 71
+        }
+      ]
+    }
+  ],
+  "voices": [
+    {
+      "id": "rh",
+      "label": "Mano Destra",
+      "clef": "treble",
+      "soundFontHint": {
+        "bank": 0,
+        "program": 0,
+        "displayName": "Acoustic Grand Piano",
+        "fallbackToUserSelection": true
+      },
+      "bars": [
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 101,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 76,
+              "dynamic": "pp"
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 101,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 75
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 102,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 102,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 75
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 102,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 103,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 71
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 103,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 74
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 103,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 72
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 69
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 104,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 60
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 104,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 64
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 104,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 69
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 71
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 105,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 64
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 105,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 68
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 105,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 71
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 72
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 106,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 64
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 106,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 106,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 75
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 107,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 107,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 75
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 107,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 108,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 71
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 108,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 74
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 108,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 72
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 69
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 109,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 60
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 109,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 64
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 109,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 69
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 71
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 110,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 62
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 110,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 72
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 110,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 71
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 60
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 111,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 111,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 75
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 112,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 112,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 75
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 112,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 76
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 113,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 71
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 113,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 74
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 113,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 72
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 69
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 114,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 60
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 114,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 64
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 114,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 69
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "pitch": 71
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 115,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 64
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 115,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 68
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 115,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh",
+      "label": "Mano Sinistra",
+      "clef": "bass",
+      "soundFontHint": {
+        "bank": 0,
+        "program": 0,
+        "displayName": "Acoustic Grand Piano",
+        "fallbackToUserSelection": true
+      },
+      "bars": [
+        {
+          "events": [
+            {
+              "duration": "eighth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "eighth",
+              "isRest": true
+            },
+            {
+              "duration": "eighth",
+              "isRest": true
+            },
+            {
+              "duration": "eighth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 201,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 45,
+              "dynamic": "pp"
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 201,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 201,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 57
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 202,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 40
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 202,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 202,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 56
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 203,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 45
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 203,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 203,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 57
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "eighth",
+              "isRest": true
+            },
+            {
+              "duration": "eighth",
+              "isRest": true
+            },
+            {
+              "duration": "eighth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 204,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 45
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 204,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 204,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 57
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 205,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 40
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 205,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 205,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 56
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 206,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 45
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 206,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 206,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 57
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "eighth",
+              "isRest": true
+            },
+            {
+              "duration": "eighth",
+              "isRest": true
+            },
+            {
+              "duration": "eighth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 207,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 45
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 207,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 207,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 57
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "duration": "sixteenth",
+              "groupId": 208,
+              "groupType": "beam",
+              "groupPosition": "first",
+              "pitch": 40
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 208,
+              "groupType": "beam",
+              "groupPosition": "middle",
+              "pitch": 52
+            },
+            {
+              "duration": "sixteenth",
+              "groupId": 208,
+              "groupType": "beam",
+              "groupPosition": "last",
+              "pitch": 56
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            },
+            {
+              "duration": "sixteenth",
+              "isRest": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

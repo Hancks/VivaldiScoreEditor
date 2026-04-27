@@ -1,10 +1,24 @@
 import SwiftUI
+import UniformTypeIdentifiers
 import VivaldiScoreKit
+
+/// UTType per i file `.mca` (VivaldiScore gzip-compresso).
+/// Usiamo `UTType(filenameExtension:conformingTo:)` invece di `importedAs`
+/// per evitare la richiesta di registrazione `UTImportedTypeDeclarations`
+/// nell'Info.plist (che lo ScoreEditor non ha). SwiftUI accetta tipi derivati
+/// da extension; se il sistema non riconosce "mca" come tipo registrato cade
+/// su `public.data` (fallback corretto per file binari generici).
+extension UTType {
+    static var vivaldiMCA: UTType {
+        UTType(filenameExtension: "mca", conformingTo: .data) ?? .data
+    }
+}
 
 struct ContentView: View {
     @State private var manager = ScoreDocumentManager()
     @State private var selectedScore: VivaldiScore?
     @State private var showFileImporter = false
+    @State private var showSaveAsExporter = false
     @State private var errorMessage: String?
 
     var body: some View {
@@ -18,7 +32,7 @@ struct ContentView: View {
                 emptyState
             }
         }
-        .fileImporter(isPresented: $showFileImporter, allowedContentTypes: [.json]) { result in
+        .fileImporter(isPresented: $showFileImporter, allowedContentTypes: [.json, .vivaldiMCA]) { result in
             switch result {
             case .success(let url):
                 do {
@@ -29,6 +43,20 @@ struct ContentView: View {
                 } catch {
                     errorMessage = error.localizedDescription
                 }
+            case .failure(let error):
+                errorMessage = error.localizedDescription
+            }
+        }
+        .fileExporter(
+            isPresented: $showSaveAsExporter,
+            document: ScoreMCADocument(score: manager.scores.first),
+            contentType: .vivaldiMCA,
+            defaultFilename: manager.scores.first.map { $0.title.replacingOccurrences(of: "/", with: "-") } ?? "score"
+        ) { result in
+            switch result {
+            case .success(let url):
+                manager.currentFileURL = url
+                manager.isDirty = false
             case .failure(let error):
                 errorMessage = error.localizedDescription
             }
@@ -84,6 +112,49 @@ struct ContentView: View {
                 }
                 .disabled(!manager.isDirty || manager.currentFileURL == nil)
             }
+            ToolbarItem(placement: .primaryAction) {
+                Button {
+                    showSaveAsExporter = true
+                } label: {
+                    Label("Save as MCA", systemImage: "archivebox")
+                }
+                .disabled(manager.scores.count != 1 || manager.isPack)
+                .help("Save as compressed .mca (gzip JSON, 70-90% smaller)")
+            }
+        }
+    }
+
+    // MARK: - MCA file document wrapper for fileExporter
+
+    /// Wrapper minimal-FileDocument per `.fileExporter`: serializza UN singolo
+    /// VivaldiScore in formato `.mca`. Per pack/array si usa il classico Save
+    /// JSON. Conform a `FileDocument` con readableContentTypes vuoto perché
+    /// usiamo solo come writer.
+    struct ScoreMCADocument: FileDocument {
+        static var readableContentTypes: [UTType] { [.vivaldiMCA] }
+        static var writableContentTypes: [UTType] { [.vivaldiMCA] }
+        let score: VivaldiScore?
+
+        init(score: VivaldiScore?) { self.score = score }
+
+        init(configuration: ReadConfiguration) throws {
+            // Non usato (apertura file passa per il fileImporter), ma richiesto
+            // dal protocol. Tenta decode come MCA → score.
+            if let data = configuration.file.regularFileContents,
+               let s = VivaldiScore.fromMCA(data) {
+                self.score = s
+            } else {
+                throw NSError(domain: "VivaldiScoreEditor", code: 4,
+                              userInfo: [NSLocalizedDescriptionKey: "Cannot read MCA file"])
+            }
+        }
+
+        func fileWrapper(configuration: WriteConfiguration) throws -> FileWrapper {
+            guard let s = score, let data = s.toMCA() else {
+                throw NSError(domain: "VivaldiScoreEditor", code: 5,
+                              userInfo: [NSLocalizedDescriptionKey: "MCA encode failed"])
+            }
+            return FileWrapper(regularFileWithContents: data)
         }
     }
 
